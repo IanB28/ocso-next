@@ -7,7 +7,7 @@ export default function AuthLayout({
     <div className="bg-orange-200 text-white w-screen h-screen flex justify-center items-center">
       <div className="flex flex-col items-center">
         <Image
-          src="/oxxo.svg"
+          src="/Oxxo_Logo.svg"
           alt="Logo de Ocso"
           width={200}
           height={200}
